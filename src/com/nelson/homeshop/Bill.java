@@ -29,4 +29,12 @@ public class Bill {
 		return products;
 	}
 	
+	public void generate(Writer writer) {
+		
+	}
+	
+	public double getTotal() {
+		return;
+	}
+	
 }
